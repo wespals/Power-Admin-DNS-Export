@@ -1,0 +1,4 @@
+# Export the dns records for a single domain from Power Admin into CSV file
+# Save export.php to Power Admins web root
+# Include a link on the edit.php page <a href='export.php?id=$zone_id'>CSV Export</a>
+
